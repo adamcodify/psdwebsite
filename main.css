@@ -104,6 +104,12 @@ a.white2 {
 	margin-left:90px;
 }
 
+.getstarted:hover{
+	background-color: white;
+	color: #00AEEB;
+	transition: .5s;
+}
+
 .getstarted2 {
 	background-color:#FFFFFF;
 	border-style: solid;
